@@ -122,8 +122,5 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/1fa091f7-4424-4ea4-a2bb-282419ea5bed)
 ![Screenshot from 2024-11-11 16-05-52](https://github.com/user-attachments/assets/4c583037-7133-4688-bb2c-c8f68a1eb0ce)
-
-
 ## RESULT
 The application successfully displays an options menu with various items, and upon selecting any item, a toast message shows the selected item.
-
